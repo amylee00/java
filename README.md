@@ -1,2 +1,2 @@
 # java
-collection of my java practice files
+collection of my java code files
